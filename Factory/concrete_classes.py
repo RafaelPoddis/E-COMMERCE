@@ -3,7 +3,7 @@ from abc import ABC, abstractmethod
 class Product(ABC):
 
     def __init__(self, nome, preco):
-        self.name = name
+        self.name = nome
         self.preco = preco
 
     def __str__(self):
