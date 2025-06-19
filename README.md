@@ -4,8 +4,6 @@ Uma mini plataforma de vendas com cadastro de produtos, carrinho de compras, che
 Padrões Aplicados
 Factory Method: Para criação de diferentes tipos de produtos.
 
-Singleton: Para gerenciar o carrinho de compras do usuário.
-
 Observer: Para atualizar o estoque e notificar clientes sobre disponibilidade.
 
 Strategy: Para aplicar diferentes métodos de pagamento.
